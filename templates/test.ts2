@@ -7,3 +7,6 @@ page {
 
 # Menü
 lib.menu = HMENU
+
+# Auch eine Änderung (haha)
+lib.footer = TEMPLATE
