@@ -1,0 +1,6 @@
+# Initial test TypoScript template
+
+page = PAGE
+page {
+	
+}
