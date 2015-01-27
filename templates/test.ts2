@@ -4,3 +4,6 @@ page = PAGE
 page {
 	template = EXT:my_base/template.html
 }
+
+# Menü
+lib.menu = HMENU
